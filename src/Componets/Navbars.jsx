@@ -9,7 +9,7 @@ function Navbars() {
 
         <ul>
           <li className="searchs">
-            <Search />
+          <Search />
           </li>
           <li className="searchs">
             <User />

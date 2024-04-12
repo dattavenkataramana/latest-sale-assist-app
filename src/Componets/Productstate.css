@@ -16,7 +16,7 @@
 }
 
 .icon-backpack:hover{
-    background-color: palevioletred;
+    background-color:  palevioletred;
 }
 
 .product_label{
@@ -29,7 +29,7 @@
 }
 
 ::-webkit-scrollbar-track{
-    background: hsl(144, 75%, 50%);
+    background: hsl(144, 82%, 50%);
     border-radius: 10px;
 }
 
